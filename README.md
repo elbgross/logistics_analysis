@@ -55,3 +55,4 @@ Evaluation strategy:
 
 ## Tech Stack
 Python, pandas, NumPy, scikit-learn, imbalanced-learn, Tableau (EDA/visuals)
+Slides: [pitch.com/v/predicting-delivery-delays-pv6uu6]
